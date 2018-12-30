@@ -4,7 +4,7 @@ class Person:
         self.country = "India"
 
     def display(self):
-        print("You are " + self.name + " From " + self.country)
+        print("I am " + self.name + " From " + self.country)
 
 
 p2 = Person("Adarsh")
